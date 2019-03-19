@@ -1,0 +1,23 @@
+# OSX
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# npm
+node_modules
+yarn.lock
+package-lock.json
+
+# jest
+coverage
+
+# build folders and files here
+demo.min.js
+/esm
+index.d.ts
+
+#dev
+demo.js
+
