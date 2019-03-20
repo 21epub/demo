@@ -14,6 +14,15 @@ class Demo {
   init() {
     return this.name
   }
+
+  /**
+   *  getName
+   *  * get Name from demo
+   *  @returns {string}
+   */
+  getName() {
+    return this.name
+  }
 }
 
 export default Demo
