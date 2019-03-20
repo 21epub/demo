@@ -12,7 +12,7 @@ class Demo {
    *  @returns {string}
    */
   init() {
-    return this.name
+    return this.test
   }
 }
 
